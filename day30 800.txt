@@ -1,0 +1,114 @@
+fatigue
+피로
+checkup
+건강 진단
+symptom
+증상
+phyisician
+내과 의사
+diagnosis
+진단
+prescribe
+(약을) 처방하다
+comprehension
+이해력
+operation
+수술
+cleanliness
+청결
+examination
+진찰, 검사
+transmit
+전염시키다
+coverage
+(보험) 보상 범위, 보도
+pharmaceutical
+제약의, 약학의
+premium
+보험료
+relieve
+완화시키다
+conscious
+알고 있는, 자각하고 있는
+deprivation
+박탈, 상실
+health
+(사회) 번영, 안녕, 건강
+induce
+유발하다
+insurance
+보험
+susceptible
+~에 감염되기 쉬운
+cavity
+충치
+cosmetic
+미용의, 화장의
+cure
+치료, 치료하다
+remedy
+치료법, 의약
+well-being
+(건강과) 행복
+aging
+나이 들어가는
+ankle sprain
+발목 접질림
+buzzing
+윙윙 소리를 내는
+doctor’s appointment
+진료 예약
+heart ailment
+심장병
+insomnia
+불면증
+maternity ward
+산부인과 병동
+surgical instrument
+수술 도구
+tablet
+알약
+terminal
+말기의, 불치의
+watch over
+보호하다, 지키다
+consequently
+그 결과, 따라서
+resemble
+~을 닮다, 공통점이 있다
+ultimately
+마침내, 결국
+urgently
+급히
+antibiotic
+항생제
+asthma
+천식
+chronic
+만성의
+contagious
+전염성의
+dosage
+1회분 복용량
+dose
+(약의) 1회분 복용량
+eradicate
+근절하다, 뿌리 뽑다
+exhale
+숨을 내쉬다
+first aid
+응급 처치
+hygiene
+위생
+infection
+감염
+infectious disease
+전염병
+inhale
+들이마쉬다
+paralysis
+마비
+pulse
+맥박
+robust
+튼튼한, 강건한 
