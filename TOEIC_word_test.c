@@ -1,5 +1,5 @@
 // TOEIC word test program Ver. 1.5.
-// Made by yeohj0710 (Heronel)
+// Made by yeohj0710
 
 #include<stdio.h>
 #include<stdlib.h>
